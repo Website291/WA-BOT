@@ -1,6 +1,6 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "name": "HASHAN-MD",
+  "description": "HASHAN-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "C7ZBGACa#1z4hpPo1tmjTXoehn6gxWEyRmw0Qii_BiWHHhAVZdt8",
       "required": true,
-      "value": ""
+      "value": "C7ZBGACa#1z4hpPo1tmjTXoehn6gxWEyRmw0Qii_BiWHHhAVZdt8"
     },  
     
     "MODE": {
