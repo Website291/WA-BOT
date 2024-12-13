@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "C7ZBGACa#1z4hpPo1tmjTXoehn6gxWEyRmw0Qii_BiWHHhAVZdt8",
+      "description": "XJo1HZqJ#y6WQumi-QKS9dmMYfZLnj_M1ByIMq1R-7pDQLBOvSfc",
       "required": true,
-      "value": "C7ZBGACa#1z4hpPo1tmjTXoehn6gxWEyRmw0Qii_BiWHHhAVZdt8"
+      "value": "XJo1HZqJ#y6WQumi-QKS9dmMYfZLnj_M1ByIMq1R-7pDQLBOvSfc"
     },  
     
     "MODE": {
